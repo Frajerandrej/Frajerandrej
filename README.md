@@ -1,4 +1,4 @@
-<h1 align="center">Jsem bakalář Andrej</h1>
+<h1 align="center">Jsem budoucí bakalář</h1>
 <h3 align="center">From India</h3>
 
 - 🔭 I’m currently working on **střední škola**
